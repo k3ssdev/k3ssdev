@@ -8,10 +8,19 @@
 ---
 
 🎓 **Titles and Certifications:**
+
 - Higher Technician in Computer Network Systems Management (CFGS ASIR).
+  [Certificate Description](n-tsadministracionsistemasinformaticosreden-pdf.pdf)
+  [Descripción del Título](n-tsadministracionsistemasinformaticosreden-pdf.pdf)
+
 - Higher Technician in Multi-platform Applications Development (CFGS DAM).
-- Advanced Vocational Training Specialization Course on Cybersecurity in Information Technology
-Environments student.
+  [Certificate Description](n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)
+  [Descripción del Título](n-tsdesarrolloaplicacionesmultiplataformaes-pdf.pdf)
+
+- Advanced Vocational Training Specialization Course on Cybersecurity in Information Technology Environments student.
+  [Certificate Description](ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf)
+  [Descripción del Título](ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion (en).pdf)
+
 - LPIC-1 certification (1 of 2 exams passed).
 
 ---
