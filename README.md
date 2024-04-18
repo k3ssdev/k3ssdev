@@ -21,7 +21,7 @@
   [EN](ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf)/
   [ES](ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion_es.pdf)
 
-- Linux Essentials certification by Linux Professional Institute. [Certificate Document](LE-1)
+- Linux Essentials certification by Linux Professional Institute. [Certificate Document](LE-1.pdf)
 - LPIC-1 certification by Linux Professional Institute (1 of 2 exams passed).
 
 ---
