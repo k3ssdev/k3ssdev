@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alberto Pérez, aka @k3ssdev
 - 👀 I’m interested in open source software, Linux stuff, and ethical hacking.
-- 🎓 I hold a CFGS degree in Network Systems Administration (a professional training cycle in Spain) and I am certified in Linux Essentials by the Linux Professional Institute.
+- 🎓  I hold two diplomas in Higher Vocational Training, one in Network Systems Administration (CFGS ASIR) and the other in Multiplatform Application Development (CFGS DAM). Additionally, I am certified in Linux Essentials by the Linux Professional Institute.
 - 📚 I am currently studying for the LPIC-1 certification (1 of 2 exams passed) and I am a second-year student in Multiplatform Application Development (another professional training cycle in Spain).
 - 💼 I work as a SysAdmin with Linux servers, SQL and KQL for data exploitation, and Azure.
 - 🔍 I am particularly interested in cybersecurity and ethical hacking (self-taught).
