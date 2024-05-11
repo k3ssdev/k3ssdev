@@ -17,7 +17,7 @@
   [EN](n-tsdesarrolloaplicacionesmultiplataformaen-pdf.pdf)/
   [ES](n-tsdesarrolloaplicacionesmultiplataformaes-pdf.pdf)
 
-- Advanced Vocational Training Specialization Course on Cybersecurity in Information Technology Environments student.
+- Advanced Vocational Training Specialization Course on Cybersecurity in Information Technology Environments.
   [EN](ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion.pdf)/
   [ES](ce-gs-ciberseguridad-entornos-tecnologias-de-la-informacion_es.pdf)
 
