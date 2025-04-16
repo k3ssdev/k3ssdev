@@ -1,8 +1,8 @@
-👋 Hi, I’m Alberto Pérez, aka @k3ssdev.
+👋 Hi! I'm Alberto Pérez, also known as @k3ssdev.
 
-👀 I’m interested in open source software, Linux stuff and ethical hacking.
- 
-💼 I work as a SysAdmin with Linux servers, SQL and KQL for data exploitation, and Azure.
+👀 I'm deeply interested in open source software, everything related to the Linux ecosystem, the fascinating world of ethical hacking, and the cutting-edge advancements in Artificial Intelligence.
+
+💼 I currently work as a Data Engineer in the R&D department of an Engineering and Architecture consultancy here in Spain. My daily work involves a really interesting Artificial Intelligence project, where we apply techniques like Bayesian Weibull analysis, Petri Nets, and Bayesian Neural Networks.
 
 
 ---
