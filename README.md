@@ -31,15 +31,17 @@
 - LPIC-1 certification by Linux Professional Institute (1 of 2 exams passed).
 
 <h3 align="left">📫 Connect with me:</h3>
-<p align="left">
+<p align="center">
   📧 How to reach me -> [k3ssdev@proton.me](mailto:k3ssdev@proton.me)
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k3ssdev&label=Profile%20views&color=0e75b6&style=flat" alt="k3ssdev" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3ssdev" alt="k3ssdev" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=k3ssdev&label=Profile%20views&color=0e75b6&style=flat" alt="k3ssdev" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=k3ssdev&theme=onedark" alt="k3ssdev" /></a> </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k3ssdev&show_icons=true&locale=en&layout=compact" alt="k3ssdev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k3ssdev&show_icons=true&locale=en" alt="k3ssdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k3ssdev&" alt="k3ssdev" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k3ssdev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k3ssdev&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k3ssdev&theme=dark" alt="Streak Stats" />
+</p>
