@@ -2,14 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k3ssdev&label=Profile%20views&color=0e75b6&style=flat" alt="k3ssdev" /> </p>
 
-<h1 align="center">Hi 👋, I'm @k3ssdev</h1>
-<h3 align="center">Data Engineer passionate about open source, Linux, ethical hacking, and applying AI to create innovative solutions.</h3>
+<h1 align="center">Hi 🖖, I'm @k3ssdev</h1>
+<h3 align="center">Data Engineer passionate about crafting solutions with AI. My tech toolkit includes open source, Linux, and a healthy dose of ethical hacking principles.</h3>
 
 <h3 align="left">👤 About me</h3>
 
-👋 My name is Alberto Pérez, also known as @k3ssdev.
+👋 Hey there! I'm @k3ssdev, or Alberto Pérez in the real world.
 
-👀 I'm deeply interested in open source software, everything related to the Linux ecosystem, the fascinating world of ethical hacking, and the cutting-edge advancements in Artificial Intelligence.
+👀 I'm a Data Engineer passionate about crafting solutions with AI. My tech toolkit includes open source, Linux, and a healthy dose of ethical hacking principles. I love the challenge of software development and staying on top of the latest in tech.
+
+🎲 Beyond the keyboard, I'm a big fan of Star Trek's vision... and the epic fantasy of Lord of the Rings. I also enjoy the collaborative storytelling of tabletop role-playing games (TTRPGs) like Dungeons & Dragons, Call of Cthulhu, and Star Trek Adventures, as well as exploring games on Xbox, Nintendo, and Steam (with a backlog that's frankly embarrassing 😅).
 
 💼 I currently work as a Data Engineer in the R&D department of an Engineering and Architecture consultancy here in Spain. My daily work involves a really interesting Artificial Intelligence project, where we apply techniques like Bayesian Weibull analysis, Petri Nets, and Bayesian Neural Networks.
 
